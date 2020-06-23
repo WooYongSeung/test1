@@ -9,3 +9,12 @@
    - c언어 공부할 때 사용
    
    - 42seoul 프로젝트
+
+- 소스 코드 사용하기 
+
+    - 'printf("hello. github\n");'
+    
+    - [구글](https://www.google.com, "검색 사이트")
+    
+    
+    
